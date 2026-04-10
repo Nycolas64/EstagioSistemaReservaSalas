@@ -1,0 +1,5 @@
+com\SGA\SGA\service\AmbienteService.class
+com\SGA\SGA\controller\AmbienteController.class
+com\SGA\SGA\model\Ambiente.class
+com\SGA\SGA\SgaApplication.class
+com\SGA\SGA\repository\AmbienteRepository.class
